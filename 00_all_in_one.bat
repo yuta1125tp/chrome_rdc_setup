@@ -1,3 +1,4 @@
+@echo off
 rem Install Chrome
 echo "Install Chrome"
 if not exist "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" call batfiles\01_install_chrome\01_install_chrome.bat
@@ -10,4 +11,4 @@ rem Create Shortcut
 echo "Create Shortcut in Desktop."
 call batfiles\03_make_shortcut\01_create_shortcut.bat
 
-echo "ãƒ‡ã‚¹ã‚¯ãƒˆãƒƒãƒ—ã®ã€Œãƒªãƒ¢ãƒ¼ãƒˆãƒ‡ã‚¹ã‚¯ãƒˆãƒƒãƒ—æ¥ç¶šã€ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ãã ã•ã„ã€‚"
+echo "ƒfƒXƒNƒgƒbƒv‚ÌuƒŠƒ‚[ƒgƒfƒXƒNƒgƒbƒvÚ‘±v‚ğƒNƒŠƒbƒN‚µ‚Ä‚­‚¾‚³‚¢B"
