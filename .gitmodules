@@ -1,0 +1,3 @@
+[submodule "psbrowserextensions"]
+	path = psbrowserextensions
+	url = https://bitbucket.org/svalding/psbrowserextensions.git
