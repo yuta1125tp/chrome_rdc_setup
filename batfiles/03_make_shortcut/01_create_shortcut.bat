@@ -1,0 +1,2 @@
+REM create shortcut to remotedesktip.google.com on use's Desktop.
+.\batfiles\03_make_shortcut\02_create_shortcut.bat "%USERPROFILE%\Desktop\リモートデスクトップ接続.lnk" "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe" "https://remotedesktop.google.com/support/" ""

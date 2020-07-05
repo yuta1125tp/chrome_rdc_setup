@@ -28,4 +28,4 @@ if '%errorlevel%' NEQ '0' (
 ::--------------------------------------
 
 ::ENTER YOUR CODE BELOW:
-call 04_install_chrome_rdc.bat
+call .\batfiles\02_install_chrome_rdc\02_install_chrome_rdc.bat
