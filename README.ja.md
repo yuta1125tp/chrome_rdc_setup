@@ -38,6 +38,7 @@ Chrome_RDC_Setup
     `regedit(レジストリエディタ)`で`コンピューター\HKEY_CURRENT_USER\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist`を確認し該当するレジストリ（ChromeStoreのIDで判断可能）を削除する。  
     削除後にChromeを再起動すると拡張機能アンインストールされる。  
     （Chromeは起動時に毎回レジストリを確認して拡張機能を更新する）
+    `ExtensionInstallForcelist`のフォルダが残っていると組織に管理されている表示が残るので、それが好ましくない場合はフォルダごと削除する必要あり。    
 
 
 ### Links  
