@@ -1,7 +1,7 @@
 @echo off
 rem Install Chrome
 echo "Install Chrome"
-if not exist "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" call batfiles\01_install_chrome\01_install_chrome.bat
+if not exist "C:\Program Files\Google\Chrome\Application\chrome.exe" call batfiles\01_install_chrome\03_install_chrome.bat
 
 rem Install RDC extention
 echo "Install Chrome Remote Desktop Connection"

@@ -9,6 +9,28 @@ Chrome_RDC_Setup
 4. [Chrome Remove Desktop Support](https://remotedesktop.google.com/support/)へアクセスしてもらいピンコードを教えてもらう。  
 5. 遠隔地からサポート開始。  
 
+### 使い方2
+1. デスクトップに作成されたショートカットをクリック  
+  <img src="media/icon.jpg" alt="drawing" width="100"/>
+
+1. 表示された画面のうちこの画面を共有の「下矢印」をクリック   
+  <img src="media/remotedesktop1.jpg" alt="" width="500"/>
+
+1. 「同意してインストール」が表示されるのでそれをクリック   
+  <img src="media/remotedesktop2.jpg" alt="" width="500"/>
+
+1. 「はい」をクリック   
+  <img src="media/remotedesktop3.jpg" alt="" width="500"/>
+
+1. 「コードを生成」をクリック   
+  <img src="media/remotedesktop4.jpg" alt="" width="500"/>
+
+1. 12桁の数字を相手に伝える。   
+  <img src="media/remotedesktop5.jpg" alt="" width="500"/>
+
+
+
+
 ### 注意
 - 拡張機能のアンインストール方法  
     PSBrowserExtensionsは管理者権限で拡張機能をインストールするので、通常のインストールと違いブラウザの画面からは削除できない。  
